@@ -30,8 +30,9 @@ plt.xlabel("X-AXIS")
 plt.ylabel("Y-AXIS")
 plt.title("GRAPH")
 plt.show()
-```
-![image](https://github.com/user-attachments/assets/53c37bde-9779-41d5-83c2-c71702b6f4e2)
+``
+![Screenshot 2025-04-19 203235](https://github.com/user-attachments/assets/08435205-54e3-47dc-a1f4-947c307c0175)
+
 ```
 x1=[1,2,3]
 y1=[2,4,1]
@@ -45,9 +46,10 @@ plt.title("GRAPH")
 plt.legend()
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/99397623-f1fc-452a-83ec-48e8032143f6)
+![Screenshot 2025-04-19 203258](https://github.com/user-attachments/assets/ccedaf3f-2b7b-41fa-8dfb-0b60455fb076)
 ```
-import matplotlib.pyplot as plt
+import matplotlib.pyplot
+ as plt
 
 x = [1, 2, 3, 4, 5, 6]
 y = [2, 4, 1, 5, 2, 6]
